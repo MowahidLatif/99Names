@@ -1,1 +1,16 @@
-LIST OF FUNCTIONS THAT THE APP MUST PERFORM: 
+LIST OF FUNCTIONS THAT THE APP MUST PERFORM (WILL ADD MORE LATER): 
+
+[ ] Cashe the users information to save local score 
+[ ] Have the ability to share score over socail media and other platforms
+[ ] Ask the user if he/she wants to donate to the developer 
+[ ] Have random Islamic verses displayed on the top of the web page each re-fresh or visit 
+[ ] Light mode and Dark mode 
+[ ] Implament a AWS backend 
+
+Games: 
+[ ] Matching Game (start with 1 - 1 and then work your way up)
+[ ] Writing Game (write the names of the translated words)
+[ ] A general list where a person is tested on all 99 names 
+[ ] 5 per day challange (presented with 5 and every day, it increments by adding 2 - 5 new ones)
+[ ] Shuffle mode (display a word, its and a translation, answer * check * or * X *)
+[ ] Flipping upside down and finding the translated term (timed for speed and accuracy)
