@@ -1,5 +1,10 @@
 LIST OF FUNCTIONS THAT THE APP MUST PERFORM (WILL ADD MORE LATER): 
 
+LIST OF PRODUCTION:
+[ ] Create HTML for landing page
+[ ] Create links for other pages and games 
+[ ] Make data for 99Names 
+
 [ ] Cashe the users information to save local score 
 [ ] Have the ability to share score over socail media and other platforms
 [ ] Ask the user if he/she wants to donate to the developer 
